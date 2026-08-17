@@ -37,9 +37,9 @@
 ### 3.1 HƯỚNG DẪN DÀNH CHO HỌC VIÊN (LEARNER)
 
 #### A. Tiêu chí tuyển chọn & Sàng lọc (Learner Recruitment)
-- **Population**: Học viên đã hoặc đang tham gia các khóa học trực tuyến/kết hợp có thành phần tự học trên LMS.
+- **Population**: Học viên đã hoặc đang tham gia các khóa học trực tuyến/kết hợp có thành phần tự học trên Vlearn.
 - **Inclusion Criteria**:
-  1. Đã hoàn thành ít nhất một tuần học tự học trên LMS trong vòng 14 ngày gần nhất.
+  1. Đã hoàn thành ít nhất một tuần học tự học trên Vlearn trong vòng 14 ngày gần nhất.
   2. Có trải qua tình huống gặp một phần nội dung bài học khó hiểu hoặc bài tập bế tắc.
   3. Có thể kể lại chi tiết các hành động thực tế đã làm để xử lý phần khó đó.
 - **Exclusion Criteria**:
@@ -60,7 +60,7 @@
 
 | STT | Điều cần học (Learning Goals) | Câu hỏi sẽ dùng (Mom Test compliant) |
 | :--- | :--- | :--- |
-| **Q1** | **Situation & Severity**: Mức độ nghiêm trọng và tần suất bế tắc thực tế của học viên khi học trên LMS. | *"Khi nhận ra mình đang bị bế tắc hoặc chưa hiểu rõ phần kiến thức đó, bạn đã loay hoay trong bao lâu và cảm xúc của bạn lúc đó thế nào?"* |
+| **Q1** | **Situation & Severity**: Mức độ nghiêm trọng và tần suất bế tắc thực tế của học viên khi học trên Vlearn. | *"Khi nhận ra mình đang bị bế tắc hoặc chưa hiểu rõ phần kiến thức đó, bạn đã loay hoay trong bao lâu và cảm xúc của bạn lúc đó thế nào?"* |
 | **Q2** | **Workaround & Effort**: Các phương án tự giải quyết hiện tại của học viên và công sức bỏ ra cho chúng. | *"Bạn đã thực hiện những hành động cụ thể nào để tự giải quyết phần kiến thức/bài tập chưa hiểu đó trước khi tiếp tục học?"* |
 | **Q3** | **Scary Assumption (Thái độ với sự can thiệp)**: Cảm xúc và sự an toàn tâm lý của học viên khi được giáo viên tiếp cận hỗ trợ chủ động (đặc biệt khi chưa chủ động hỏi). | *"Trong các môn bạn từng học (kể cả trực tiếp), đã bao giờ bạn gặp tình huống một giáo viên/trợ giảng chủ động nhắn tin hoặc gặp riêng để chỉ ra đúng phần bạn làm sai hay loay hoay chưa? (Nếu chưa) Hãy nhớ lại lần gần nhất bạn nhận điểm bài tập kém mà không được giải thích lý do, lúc đó bạn đã làm gì?"* *(Sửa đổi sau khi luyện tập để tránh bị cụt hội thoại khi học viên nói "Chưa từng")* |
 
@@ -135,7 +135,7 @@
 
 ### 4.1 Trần Xuân Bách — 2A202601093
 - **Câu hỏi đã giúp user kể một tình huống cụ thể**:
-  > *"Hãy nhớ lại lần gần nhất bạn gặp một bài học trực tuyến trên LMS mà bạn cảm thấy bế tắc hoặc chưa chắc mình hiểu đúng. Bạn kể cho mình nghe chuyện gì đã xảy ra lúc đó được không?"* (Neo user vào bài học CSS Grid tuần trước).
+  > *"Hãy nhớ lại lần gần nhất bạn gặp một bài học trực tuyến trên Vlearn mà bạn cảm thấy bế tắc hoặc chưa chắc mình hiểu đúng. Bạn kể cho mình nghe chuyện gì đã xảy ra lúc đó được không?"* (Neo user vào bài học CSS Grid tuần trước).
 - **Chỗ cần làm tốt hơn ở lần phỏng vấn thật**:
   > Ban đầu tôi đã vô tình hỏi một câu mang tính opinion: *"Bạn nghĩ sao nếu thầy cô nhắn tin hỗ trợ đúng lúc?"* khiến học viên trả lời xã giao theo hướng ủng hộ feature. Ở lần phỏng vấn thật, tôi cần giữ im lặng tuyệt đối về mặt giải pháp và chỉ tập trung hỏi về hành vi quá khứ.
 
